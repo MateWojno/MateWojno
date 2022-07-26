@@ -2,7 +2,7 @@
 - 👀 I’m interested in old-school gaming, Unity, Blender, 2D/3D game dev - also some buisness apps .net
 - 🌱 I’m currently learning C#, Python
 - 💞️ I’m looking to collaborate on Evil Islands Mods - reverse engineering
-- 📫 How to reach me - mail me mateusz.k.wojno@gmail.com
+- 📫 How to reach me - mail me mateusz.k.wojno@gmail.com or MateWojno#7099 - discord
 
 <!---
 MateWojno/MateWojno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
