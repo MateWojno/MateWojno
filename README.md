@@ -7,7 +7,7 @@
 
 - look at my project
 
-# mod_Ideas
+# mod_Ideas /CHECK out this repo/ 
 Evil Islands ideas
 
 You can help me develop interesting ideas to grow Evil Islands Multi Player Vanilla-Like Mod
