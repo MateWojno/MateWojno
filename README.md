@@ -4,7 +4,7 @@ html - decent basics 1.5/5 | css - decent basics 1.5/5 | js - in progress |
 
 python - decent basics 1.5/5 | C# - basics 1/5 | VBA - basics 1/5 |
 
-git/GitHub - decent 2/5 | bash - decent basics 1.5/5 | shell scripting - basics 1.5/5 | 
+git/GitHub - decent 2/5 | bash - decent basics 1.5/5 | shell scripting - decent basics 1.5/5 | 
 
 Linux, WindowsOS - decent 2/5 |
 
