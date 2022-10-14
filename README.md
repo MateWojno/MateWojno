@@ -1,15 +1,15 @@
  <div class="body"><h1> Current tech stack: </h1>
   <ul class="tech-exp">
-    <li> html - decent basics 1.5/5 </li> 
-    <li> css - decent basics 1.5/5 </li>
+    <li> html - decent basics </li> 
+    <li> css - decent basics </li>
     <li> js - in progress </li>
-    <li> python - decent basics 1.5/5 </li>
-    <li> C# - basics 1/5 </li>
-    <li> VBA - basics 1/5 </li>
-    <li> git/GitHub - decent basics 1.5/5 </li>
-    <li> bash - decent basics 1.5/5 </li>
-    <li> shell scripting - decent basics 1.5/5 </li>
-    <li> Linux, WindowsOS - decent 2/5 </li>
+    <li> python - decent basics </li>
+    <li> C# - basics </li>
+    <li> VBA - basics </li>
+    <li> git/GitHub - decent basics </li>
+    <li> bash - decent basics </li>
+    <li> shell scripting - decent basics </li>
+    <li> Linux, WindowsOS - decent </li>
   </ul>
   <ul class="exp"><h2>Experience in:</h2>
     <li> Microsoft Excel </li>
