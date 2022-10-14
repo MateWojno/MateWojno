@@ -1,12 +1,12 @@
 # Current tech stack:
 <pre> 
-html - junior 2/5 | css - junior 2/5 | js - in progress | 
+html - decent basics 1.5/5 | css - decent basics 1.5/5 | js - in progress | 
 
-python - fundamentals 1.5/5 | C# - basics 1/5 | VBA - basics 1/5 |
+python - decent basics 1.5/5 | C# - basics 1/5 | VBA - basics 1/5 |
 
 git/GitHub - decent 2/5 | bash - decent basics 1.5/5 | shell scripting - basics 1.5/5 | 
 
-Linux, WindowsOS - decent 2.5/5 |
+Linux, WindowsOS - decent 2/5 |
 
 Experience in:
 * Microsoft Excel/Power Query, VBA - recording macros and tweaking them;
@@ -15,7 +15,7 @@ Experience in:
 </pre>
 
 # English level
-## `B2/C1`
+## `B2`
 
 # `I am looking for a job/intern in front-end/back-end dev`
 ## mateusz.k.wojno@gmail.com
