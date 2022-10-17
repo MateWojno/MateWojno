@@ -37,7 +37,7 @@
 <div class="footer">
   <h2 align="left">Connect with me:</h2>
   <p align="left">
-  <a href="https://www.linkedin.com/in/mateusz-krzysztof-wojno-248760247" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mateusz-krzysztof-wojno-248760247" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="120" width="120" /></a>
   <br><a href="mailto:mateusz.k.wojno@gmail.com">mateusz.k.wojno@gmail.com</a>
   </p>
 </div>
