@@ -1,43 +1,40 @@
- <div class="body"><h1> Current tech stack: </h1>
-  <ul class="tech-exp">
-    <li> html - decent basics </li> 
-    <li> css - decent basics </li>
-    <li> js - in progress </li>
-    <li> python - decent basics </li>
-    <li> C# - basics </li>
-    <li> VBA - basics </li>
-    <li> git/GitHub - decent basics </li>
-    <li> bash - decent basics </li>
-    <li> shell scripting - decent basics </li>
-    <li> Linux, WindowsOS - decent </li>
-  </ul>
-  <ul class="exp"><h2>Experience in:</h2>
-    <li> Microsoft Excel </li>
-    <li> Power Query </li>
-    <li> VBA - recording macros and tweaking them </li>
-    <li> Microsoft Word </li> 
-  </ul>
-  <ul class="python-libs"><h2>Python libraries and tools - basic knowledge of:</h2>
-    <li> ipywidgets </li> 
-    <li> numpy </li>
-    <li> matplotlib </li>
-    <li> tkinter </li>
-    <li> venv </li>
-    <li> sys </li>
-    <li> winsound </li>    
-    <li> jupyter notebook </li> 
-    <li> latex </li> 
-    <li> math </li> 
-  </ul>
-    <h2>English level - B2</h2>
-  </div>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MateWojno)](https://git.io/streak-stats)
-
-<div class="footer">
-  <h2 align="left">Connect with me:</h2>
-  <p align="left">
-  <a href="https://www.linkedin.com/in/mateusz-krzysztof-wojno-248760247" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="120" width="120" /></a>
-  <br><a href="mailto:mateusz.k.wojno@gmail.com">mateusz.k.wojno@gmail.com</a>
-  </p>
+<div id="about">
+        <h1 align="center" color="rgb(230, 161, 87)">Mateusz Krzysztof Wojno @MateWojno</h1>
+        <div align="center">
+                <img src="https://user-images.githubusercontent.com/110040191/197191326-e82a8037-3f7d-48f2-b31e-8a3f031306c8.jpg"  title="Hello World!" height="250px"> <hr>
+        </div>
+        <h2 >Before <br> Master of law <br> In-house lawyer <br> Notary public trainee <br> University of Bialystok - Law</h2>
+        <h2 color="rgb(230, 161, 87)">Now: <br> Aspiring programmer <br> Computer Science ITC and Programming Post Degree Student <br> Bialystok University of Technology</h2>
+        <div align="center"> 
+        </div>
+        
+<div> 
+       <h1 align="center">Tech stack</h1>
+       <h2 align="center" color="rgb(230, 161, 87)">Basics knowledge</h2>
+        <img src="https://user-images.githubusercontent.com/110040191/197192995-d9051c52-8ef4-4cdb-8eab-ac8ed59479a6.png" title="Html-Css" height="100px">
+       <img src="https://user-images.githubusercontent.com/110040191/197194610-b05e3011-0418-40ce-872a-3107e57c184d.png" title="Python" height="90px">
+       <img src="https://user-images.githubusercontent.com/110040191/197194904-8e7e7b9d-d0bf-4fdb-b879-f2189cabef18.png" title="C#" height="90px">
+       <img src="https://user-images.githubusercontent.com/110040191/197195510-201ac056-543f-43d8-a227-8b1c9539579f.png" title="VBA" height="90px">
 </div>
+<div>
+        <h1 align="center">Other Tools</h1>
+<img src="https://user-images.githubusercontent.com/110040191/197196331-4cd8f062-b74b-42be-8ba4-b6cd1f642996.png" title="Gimp" height="90px">
+<img src="https://user-images.githubusercontent.com/110040191/197196333-237ec06c-55c8-491f-8957-2f39c381db55.png" title="Aseprite" height="90px">        
+<img src="https://user-images.githubusercontent.com/110040191/197196335-9f3a2cfc-6e92-487e-a0e3-bc83e0f7098a.png" title="Blender" height="90px">
+<img src="https://user-images.githubusercontent.com/110040191/197198383-b2671877-e595-42a7-b0b0-cd75a7512468.png" title="Unity" height="90px">
+<img src="https://user-images.githubusercontent.com/110040191/197202502-d5e0794e-a4d0-48e5-9dbb-bba529946b46.png" title="Bash" height="90px">
+<img src="https://user-images.githubusercontent.com/110040191/197199849-ace29787-94b4-4174-9c00-5ec986b3fca9.jpg" title="Reaper-DAW" height="90px">
+<img src="https://user-images.githubusercontent.com/110040191/197199478-d4538828-9a8d-464b-90d4-d534ce42fa4f.png" title="MS-EXCEL" height="90px">
+<img src="https://user-images.githubusercontent.com/110040191/197199482-6f460716-b095-417b-bda2-22f13e6ea3cd.png" title="MS-WORD" height="90px">
+<br><hr>
+
+</div>
+<div id="streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateWojno"><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matewojno&layout=compact">
+</div>
+
+
+
+
+
