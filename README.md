@@ -1,8 +1,5 @@
 <div id="about">
         <h1 align="center" color="rgb(230, 161, 87)">Mateusz Krzysztof Wojno @MateWojno</h1>
-        <div align="center">
-                <img src="https://user-images.githubusercontent.com/110040191/197191326-e82a8037-3f7d-48f2-b31e-8a3f031306c8.jpg"  title="Hello World!" height="250px"> <hr>
-        </div>
         <h2 >Before <br> Master of law <br> In-house lawyer <br> Notary public trainee <br> University of Bialystok - Law</h2>
         <h2 color="rgb(230, 161, 87)">Now: <br> Aspiring programmer <br> Computer Science ITC and Programming Post Degree Student <br> Bialystok University of Technology</h2>
         <div align="center"> 
