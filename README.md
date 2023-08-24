@@ -5,8 +5,12 @@
     
 </div>
 <div id="streak">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateWojno"><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matewojno&layout=compact">
+        <table> 
+          <tr>
+                <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateWojno"> </td>
+                <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matewojno&layout=compact"> </td>
+          </tr>
+        </table>                
 </div>
 
 
