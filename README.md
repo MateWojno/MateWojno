@@ -68,7 +68,7 @@ I was working on:
 #include <noSleep>
 #include <meInYourProjectsSoon>
 
-using mateusz.k.wojno@gmail.com
+using mateusz.k.wojno(at)gmail.com
 ```
 
 </div>
