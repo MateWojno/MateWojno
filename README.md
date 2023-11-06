@@ -1,77 +1,49 @@
-<div id="about">
-<h1> Aspiring programmer  </h1>
-</div>
+# About Me
 
-<div id="projects">
-<p>
-I am currently working on:
-<ol>
-<li><strong> CalculatorApp</strong> <br>
-<sub>with cool hidden music features like:</sub>
-<ul>
-<li><sub>4 different playing modes using various sound samples</sub></li>
-<li><sub>Playing over backtrack</sub></li>
-<li><sub>Live looping</sub></li>
-<li><sub>Saving your keystrokes history</sub></li>
-</ul></li>
-</ol></p>
-<p>
-I was working on:
-<ul>
-<li><strong>Evil Islands Curse of the Last Soul  "Return to Gipath mod"</strong> <br>
-<sub>fun project in which I changed a lot in game database to reach the limits</sub></li> 
-<ul>
-<li> <sub> modified spells and items complexity to use aoe spells in  the first game Zone </sub> </li> 
-<li> <sub> modified game speed, because MultiPlayer speed x1 was too low </sub> </li> 
-<li> <sub> rebalanced the economy and quest rewards to avoid doing quest from third zone from very beginning of the game and ruining the game overall </sub> </li> 
-</ul>
-<br>
-<li><strong>VBA + shell scripts</strong> <br>
-<sub>to automatize workflow in our Concrete Plant company</sub></li>
-<ul>
-<li> <sub> it helps in fetching data from donor computer - heart of the Concrete Plant - which does  not have internet connection</sub> </li> 
-<li> <sub> then it prepares data to read inside Excel on our office computers </sub> </li> 
-<li> <sub> VBA script is used to read and transform data </sub> </li>
-<li> <sub> This simple operation saves about 4 hours/day of rewriting the production reports which come in paper form </sub> </li> 
-</ul>
-</ul></p>
-</div>
+## Introduction
 
-<br>
+I'm an aspiring programmer with a passion for coding and a strong desire to learn and create. I enjoy working on various projects, from software development to game modification. I believe in continuously expanding my knowledge and skills in the world of programming.
 
-<div id="techStack">
-<table>
-<tr>
-<th>JavaScript</th>
-<th>Html</th>
-<th>Css</th>
-<th>Python</th>
-<th>C++</th>
-</tr>
-<tr>
-<td>Begginer</td>
-<td>I know a bit...</td>
-<td>I know flex etc...</td>
-<td>I am eager to learn</td>
-<td>Wish to learn it more</td>
-</tr>
-</table>
-</div>
+## Current Projects
 
+### CalculatorApp
 
-<br>
+I'm currently working on the **CalculatorApp**, a unique project that combines mathematical calculations with hidden music features, creating an engaging and fun experience. Thanks to the power of AI, I'm exploring innovative ways to generate HTML, CSS, and JavaScript code for this app, allowing for rapid development and efficient design.
 
-<div id="cpp-footer"> 
+## Previous Projects
 
-```cpp
-#include <fun>
-#include <noSleep>
-#include <meInYourProjectsSoon>
+### Evil Islands Curse of the Last Soul "Return to Gipath Mod"
 
-using mateusz.k.wojno(at)gmail.com
-```
+I worked on a project that involved modifying the game database of "Evil Islands Curse of the Last Soul." This fun project aimed to push the limits of the game and enhance the gaming experience. Some of the modifications included:
 
-</div>
+- **Modified Spells and Items Complexity**: I increased the complexity to use area-of-effect spells in the first game zone, adding depth to the gameplay.
 
+- **Adjusted Game Speed**: Multiplayer speed was too low, so I modified it for a more enjoyable experience.
 
+- **Rebalanced Economy and Quests**: I balanced the in-game economy and quest rewards to ensure that players didn't have to repeat quests from the third zone right at the beginning of the game, preserving the overall game balance.
 
+### VBA + Shell Scripts
+
+I developed VBA (Visual Basic for Applications) scripts and shell scripts to automate workflows in a Concrete Plant company. This project improved efficiency by:
+
+- **Fetching Data**: Automating the process of fetching data from the main computer at the Concrete Plant, which didn't have internet access.
+
+- **Data Preparation**: Preparing data for analysis in Excel on office computers.
+
+- **VBA Scripting**: Using VBA scripts to read and transform data, saving approximately 4 hours a day by eliminating the need for manual data entry of production reports that arrived in paper form.
+
+## Technology Stack
+
+I have experience with various programming languages and technologies. Here's an overview of my skills:
+
+| Technology   | Proficiency             |
+|--------------|-------------------------|
+| JavaScript   | Beginner                |
+| HTML         | Basic knowledge         |
+| CSS          | Familiar with Flexbox   |
+| Python       | Eager to learn          |
+| C++          | Willing to learn more   |
+
+## Contact Information
+
+You can reach out to me at mateusz.k.wojno(at)gmail.com for collaboration, questions, or any exciting projects. I look forward to contributing to your projects and exploring new opportunities in the world of programming.
