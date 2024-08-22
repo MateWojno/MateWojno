@@ -1,12 +1,1 @@
-# About me
-
-Still learning <*> <*>
-                 ' '
-                 ' '
-                 vvv
-
-
-                 '
-                 '
-
-                 <>
+Lorem ipsum
