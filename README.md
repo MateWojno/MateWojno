@@ -1,12 +1,3 @@
 # About me
 
-Still learning <*> <*>
-                 ' '
-                 ' '
-                 vvv
-
-
-                 '
-                 '
-
-                 <>
+Still learning ;>
